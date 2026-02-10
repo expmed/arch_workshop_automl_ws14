@@ -2,5 +2,4 @@ venv
 venv/*
 .vscode
 .vscode/*
-data
-data/*
+data/*.zip
