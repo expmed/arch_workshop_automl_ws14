@@ -3,7 +3,7 @@
 ## Hands On Module
 
 ### Link to Notebook in Google Colab:
-1. Google Colab Link to Notebook: [Google Colab Link](https://colab.research.google.com/github/btwooton/arch_workshop_automl_ws14/blob/main/ws14_hands_on.ipynb)
+1. Google Colab Link to Notebook: [Google Colab Link](https://colab.research.google.com/github/expmed/arch_workshop_automl_ws14/blob/main/ws14_hands_on.ipynb)
 
 ## Link to Related Resources and Datasets Used
 
